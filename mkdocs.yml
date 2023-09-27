@@ -1,0 +1,8 @@
+site_name: "argocd-component"
+site_description: "ArgoCD component"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

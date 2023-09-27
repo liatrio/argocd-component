@@ -1,0 +1,5 @@
+{
+  "name": "argocd-component",
+  "private": true,
+  "dependencies": {}
+}
